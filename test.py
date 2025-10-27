@@ -1,2 +1,5 @@
 print('hello') # je vais créer un conflit
 print("conflit !")
+print('hello') # là je marque autre chose
+print('Et là autre chose, ça vient de main là')
+print('conflit imminent !!!!')
